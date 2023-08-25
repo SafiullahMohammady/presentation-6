@@ -17,3 +17,4 @@
 ## How the this keyword works
 ### The this keyword in JavaScript behaves a little differently compared to other languages. It also has some differences between strict mode and non-strict mode. In most cases, the value of this is determined by how a function is called (runtime binding). It can’t be set by assignment during execution, and it may be different each time the function is called.
 ![](https://th.bing.com/th/id/OIP.KHfXfm6ngRCAdZ5s7nJ6wgHaDe?pid=ImgDet&rs=1)
+.
